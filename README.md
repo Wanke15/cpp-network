@@ -1,3 +1,7 @@
+# GET method
+<img src="8deccdbabd6b476459e6a1f2fb41e3f.png">
+
+# POST method
 <img src="6f7adf5b9fb3dc0a0440a77244f04db.png">
 
 # Dependency
